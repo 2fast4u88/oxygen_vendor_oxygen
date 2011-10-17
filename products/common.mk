@@ -1,6 +1,6 @@
 $(call inherit-product, vendor/google/gapps.mk)
 
-PRODUCT_PROPERTY_OVERRIDES += ro.rommanager.developerid=adamg
+PRODUCT_PROPERTY_OVERRIDES += ro.rommanager.developerid=2fastroms
 
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
 
